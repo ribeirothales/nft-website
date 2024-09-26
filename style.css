@@ -428,3 +428,70 @@ nav button:hover {
     position: absolute;
     left: 85% !important;
  }
+
+ .banner {
+    width: 85%;
+    margin: 0 auto;
+    background-color: transparent;
+    background-image: linear-gradient(90deg, #E75469 0%, #A93Ef8 100%) !important;
+    border-radius: 10px;
+ }
+
+ .banner-main {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    gap: 50px;
+    padding: 50px;
+    background-image: url(image/k5jfyn.png);
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: contain 100%;
+    margin: 0 auto;
+    position: relative;
+    height: 100%;
+ }
+
+ .banner-text h1, .banner-main span {
+    font-size: 2.5rem;
+    color: #131325;
+    width: 80%;
+    position: relative;
+    z-index: 9;
+    text-transform: uppercase;
+ }
+
+ .banner-main span:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 5%;
+    width: 100%;
+    background-color: #fff;
+    z-index: -1;
+    transition: var(--trns-05);
+ }
+
+ .banner-main span:hover:after {
+    height: 100%;
+ }
+
+ .banner-main p {
+    font-size: 22px;
+    padding: 30px 0;
+ }
+
+ .banner-main .banner-btn {
+    height: 50px;
+    width: 200px;
+    color: #fff;
+    font-size: 18px;
+    border: none;
+    background-color: #131325;
+    font-weight: 500;
+    border-radius: 5px;
+    cursor: pointer;
+ }
