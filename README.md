@@ -5,7 +5,7 @@ Bem-vindo ao **NFT Hub**, um site moderno e dinâmico que oferece informações 
 - Acesse agora: (https://github.com/ribeirothales/nft-website)
 
 
-![Texto Alternativo](https://i.imgur.com/M0YtFeK.png)
+![Texto Alternativo](https://i.imgur.com/iMAIOPC.png)
 
 ## Tecnologias Utilizadas
 - **HTML5**
