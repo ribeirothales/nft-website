@@ -2,7 +2,7 @@
 
 Bem-vindo ao **NFT Hub**, um site moderno e dinâmico que oferece informações detalhadas sobre NFTs, incluindo coleções exclusivas, cartas digitais e insights sobre o universo dos tokens não fungíveis.
 
-- Acesse agora: (https://github.com/ribeirothales/nft-website)
+- Acesse agora: (https://nft-thales-website.netlify.app/)
 
 
 ![Texto Alternativo](https://i.imgur.com/iMAIOPC.png)
@@ -19,11 +19,11 @@ O **NFT Hub** possui um design sofisticado e altamente responsivo, garantindo um
 
 ## 🔥 Recursos Principais
 
-✅ Informações atualizadas sobre NFTs
-✅ Cartas colecionáveis digitais
-✅ Exploração de coleções exclusivas
-✅ Interface interativa e animada
-✅ Totalmente responsivo
+- Informações atualizadas sobre NFTs
+- Cartas colecionáveis digitais
+- Exploração de coleções exclusivas
+- Interface interativa e animada
+- Totalmente responsivo
 
 ## Contato 📞 
 
